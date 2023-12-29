@@ -5,27 +5,27 @@
 
 [[main]]
   name = "CV"
-  url = "files/cv.pdf"
+  url = "en/files/cv.pdf"
   weight = 10
 
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 20
+# [[main]]
+#   name = "Publications"
+#   url = "#publications"
+#   weight = 20
 
 [[main]]
     name = "Working papers"
-    url = "#working-papers"
+    url = "#en/working-papers"
     weight = 30
 
 [[main]]
     name = "Teaching"
-    url = "#teaching"
+    url = "#en/teaching"
     weight = 40
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "#en/contact"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
