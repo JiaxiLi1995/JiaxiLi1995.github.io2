@@ -15,17 +15,17 @@
 
 [[main]]
     name = "Working papers"
-    url = "#en/working-papers"
+    url = "#working-papers"
     weight = 30
 
 [[main]]
     name = "Teaching"
-    url = "#en/teaching"
+    url = "#teaching"
     weight = 40
 
 [[main]]
   name = "Contact"
-  url = "#en/contact"
+  url = "#contact"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.

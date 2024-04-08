@@ -21,17 +21,17 @@
       
     [[zh.menu.main]]
       name = "研究手稿"
-      url = "#zh/working-papers"
+      url = "#working-papers"
       weight = 30
     
     [[zh.menu.main]]
         name = "教学"
-        url = "#zh/teaching"
+        url = "#teaching"
         weight = 40
     
     [[zh.menu.main]]
       name = "联系方式"
-      url = "#zh/contact"
+      url = "#contact"
       weight = 50
 
   
